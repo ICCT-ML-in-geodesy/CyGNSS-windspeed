@@ -6,7 +6,13 @@ Developed for the D4G Remote Sensing Workshop, GFZ, Potsdam, 13.06.2022.
 
 ## Installation
 
-Clone the git repository and follow the steps described in `tutorial/D4G-Walkthrough.ipynb`
+### Local installation
+
+Clone the git repository, install the conda environment provided in `environment.yml` and follow the steps described in `tutorial/D4G-Walkthrough.ipynb`
+
+### Colab
+
+You can run the tutorial in Google Colab (colab.reseach.google.com) using `tutorial/D4G-Interactive.ipynb`.
 
 ## Support
 
